@@ -2,6 +2,10 @@
  Mastered from re.chiaseacc.com
 
 ----------------------------
+Function:
+- Make a redirect website, convert your URL: https://example.com/test to https://example.com/super/hard/to/remember/destination
+
+----------------------------
 How to use:
 - Upload code to server/hosting
 - Edit database params in `db_config.php`
